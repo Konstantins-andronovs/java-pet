@@ -1,1 +1,2 @@
-# java-pet
+# Warship 
+Simple console game written in java
